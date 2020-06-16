@@ -21,4 +21,3 @@ int puts(const char *str) {
     return original_puts(new_str);
 }
 
-s
